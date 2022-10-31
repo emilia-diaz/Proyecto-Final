@@ -391,6 +391,21 @@ h6 {
   background-color: #c8ff00;
 }
 
+/*--/ Hamburger Navbar /--*/
+
+.navbar-toggler span {
+  display: block;
+  background-color: #c8ff00;
+  height: 3px;
+  width: 25px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  left: 0;
+  opacity: 1;
+}
+
 
 /*======================================
 //--//-->   INTRO
